@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/l0rdn1kk0n/wicket-bootstrap).
+
+
 WICKET COMPONENTS FOR BOOTSTRAP
 =======================================
 
